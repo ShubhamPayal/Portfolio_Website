@@ -1,2 +1,2 @@
 # Portfolio_Website
-My Portfolio website inspires from sean halpin
+Portfolio website inspired from Sean Haplin.
